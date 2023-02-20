@@ -35,7 +35,7 @@ export function Home() {
 						<Note 
 							data={{
 								title: 'Interestellar',
-								rating: 4,
+								rating: 5,
 								description: "Earth's last chance to find a habitable planet before a lack of resources causes the human race to go extinct.",
 								tags: [
 									{id: '1', name: 'Adventure'},
