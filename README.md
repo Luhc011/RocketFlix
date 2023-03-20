@@ -42,13 +42,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O RocketFlix é um projeto desenvolvido no stage 9 do Explorer. Front-end do projeto RocketNotes que será integrado ao back-end após implementação da autenticação de usuários.
+<a href="https://notesholanda.netlify.app/register">Deploy projeto</a>
 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/vL4ezkGQoSF8YKjN2hiNyT/RocketMovies-(Copy)?node-id=8%3A506&t=babptkUyzlD1YKT7-1>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
-Deploy: https://notesholanda.netlify.app/
+
 Esse projeto está sob a licença MIT.
 
 ---
