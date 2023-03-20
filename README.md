@@ -42,7 +42,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O RocketFlix é um projeto desenvolvido no stage 9 do Explorer. Front-end do projeto RocketNotes que será integrado ao back-end após implementação da autenticação de usuários.
-<a href="https://notesholanda.netlify.app/register">Deploy projeto</a>
+<br/>
+Você pode visualizar o deploy do projeto através [DESSE LINK](<https://notesholanda.netlify.app/>).
 
 ## 🔖 Layout
 
